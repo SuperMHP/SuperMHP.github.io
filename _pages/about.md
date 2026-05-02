@@ -31,4 +31,4 @@ News
 * <small>**[Feb 2025]** **1** Paper on Spatial Bias Evaluation for VLM, accepted by **CVPR2025**.</small>
 * <small>**[Jan 2025]** **1** Paper on Bogus Transients Recognition in Astronomy, accepted by **Astronomy & Astrophysics**.</small>
 * <small>**[Oct 2024]** **1** Paper on Uncertainty Quantification in 3D Detection, accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**.</small>
-* <small>**[Mar 2024]** **12* Paper on motion generation and ReID, accepted by **AAAI2024**.</small>
+* <small>**[Mar 2024]** **2** Paper on motion generation and ReID, accepted by **AAAI2024**.</small>
